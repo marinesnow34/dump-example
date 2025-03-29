@@ -12,3 +12,6 @@
 # 툴 추천
 [mat](https://eclipse.dev/mat/download/)
 [VisualVM](https://visualvm.github.io/download.html)
+
+# 정답 및 해설
+https://marinesnow34.github.io/2025/03/27/heap-dump/
